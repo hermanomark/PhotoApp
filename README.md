@@ -1,0 +1,1 @@
+This is the Photo App from the Complete Ruby on Rails Developer course
