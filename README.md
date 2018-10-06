@@ -1,6 +1,7 @@
 ## Photo App
 
-This is the Photo App from the Complete Ruby on Rails Developer course
+This is the Photo App from the Complete Ruby on Rails Developer course.
+This Photo App uses AWS S3 bucket to store images online.
 
 You can check the live app here: https://photoapp-hermanomark.herokuapp.com/
 
